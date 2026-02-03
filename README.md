@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Artjom 👋
 
-<!--
-**ArtjomAbdukarimov/ArtjomAbdukarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Technologies student (Tallinn) • Junior IT PM / Digital Transformation (tech background) • Flutter/Kotlin
 
-Here are some ideas to get you started:
+### Featured projects
+- **Water Tracker (Flutter + Firebase)** — daily tracking, Google Sign-In, Firestore sync  
+  Repo: https://github.com/ArtjomAbdukarimov/water_tracker_app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Currency Exchange (Android Kotlin + Retrofit2)** — real-time exchange rates API  
+  Repo: https://github.com/ArtjomAbdukarimov/CurrencyExchangeApp
+
+- **Calculator UI (Flutter)** — iPhone-style UI  
+  Repo: https://github.com/ArtjomAbdukarimov/calculator_app
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/artjom-abdukarimov/
+- Email: Artjomabdukarimov@gmail.com
